@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kittipat</h1>
+<h1 align="center">Hello, I'm Kittipat</h1>
 <h3 align="center">Software Engineer | AI & Cloud Architecture Enthusiast</h3>
 
 <p align="center">
