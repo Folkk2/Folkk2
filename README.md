@@ -40,8 +40,7 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Folkk2&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folkk2&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ใส่ชื่อUsernameตรงนี้&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
