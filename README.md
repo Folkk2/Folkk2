@@ -40,7 +40,7 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ใส่ชื่อUsernameตรงนี้&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Folkk2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
