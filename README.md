@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,16 +28,16 @@
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
-**[🤖 AI Financial Analyst (Serverless RAG System)](https://github.com/Folkk2/financial_chatbot)**
+**[AI Financial Analyst (Serverless RAG System)](https://github.com/Folkk2/financial_chatbot)**
 * **Tech:** Python, LangChain (LCEL), Qdrant Cloud, Gemini 2.5 Flash, Streamlit
 * **What it does:** Architected an automated RAG pipeline that ingests SEC 10-K financial reports and allows users to query complex financial data via an interactive web interface.
 * **[Try the Live App Here!](https://financialchatbot-hwlfgymxadd5gctck3xagx.streamlit.app/)**
 
 ---
 
-### ⚡ GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Folkk2&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -45,6 +45,6 @@
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kittipat-pornkittikorn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kittipat.pornkittikorn@gmail.com)
